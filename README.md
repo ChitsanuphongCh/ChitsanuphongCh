@@ -1,6 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitsanuphongCh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChitsanuphongCh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChitsanuphongCh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ChitsanuphongCh/ChitsanuphongCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
