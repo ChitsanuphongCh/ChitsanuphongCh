@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitsanuphongCh&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitsanuphongCh&show_icons=true&theme=radical)]
 https://github-readme-stats.vercel.app/api/top-langs/?username=ChitsanuphongCh&layout=compact&theme=radical
 
 
