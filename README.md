@@ -1,4 +1,4 @@
-Hello Everyong, 
+Hello Everyong, My name is Chitsanuphong Chaihong
 This is my github profile. ☺
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=radical)
