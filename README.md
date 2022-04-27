@@ -13,7 +13,7 @@ This is my github profile. ☺
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
 ![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 
-![windows](https://img.shields.io/badge/-vscode-brightgreen?style=for-the-badge)
+![windows](https://img.shields.io/badge/-windows-brightgreen?style=for-the-badge)
 ![vscode](https://img.shields.io/badge/-vscode-brightgreen?style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
