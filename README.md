@@ -3,13 +3,13 @@ This is my github profile. ☺
 <br><br>
 
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge)
-![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge)
+![javascript](https://img.shields.io/badge/-javascript-blueviolet?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-blue?style=for-the-badge)
-![html](https://img.shields.io/badge/-html-blue?style=for-the-badge)
+![html](https://img.shields.io/badge/-html-blueviolet?style=for-the-badge)
 ![css](https://img.shields.io/badge/-css-blue?style=for-the-badge)
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-blue?style=for-the-badge)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-blueviolet?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-blue?style=for-the-badge)
-![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
+![vue.js](https://img.shields.io/badge/-vue.js-blueviolet?style=for-the-badge)
 ![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
