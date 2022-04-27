@@ -9,7 +9,6 @@ This is my github profile. ☺
 ![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-red?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-red?style=for-the-badge)
-
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
 ![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 
