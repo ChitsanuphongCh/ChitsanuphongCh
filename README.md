@@ -14,7 +14,7 @@ This is my github profile. ☺
 ![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 
 ![vscode](https://img.shields.io/badge/-vscode-brightgreen?style=for-the-badge)
-![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
+![windows](https://img.shields.io/badge/-windows-orange?style=for-for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csnpch&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
