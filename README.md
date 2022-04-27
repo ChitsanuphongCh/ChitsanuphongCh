@@ -3,7 +3,7 @@ This is my github profile. ☺
 <br><br>
 
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
-![java](https://img.shields.io/badge/-python-red?style=for-the-badge)
+![java](https://img.shields.io/badge/-java-red?style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-javascript-red?style=for-the-badge)
 ![html](https://img.shields.io/badge/-html-red?style=for-the-badge)
 ![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
