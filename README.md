@@ -10,8 +10,9 @@ This is my github profile. ☺
 ![JSdom](https://img.shields.io/badge/-JSdom-blueviolet?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 ![html](https://img.shields.io/badge/-html-blueviolet?style=for-the-badge)
-![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
+![java](https://img.shields.io/badge/-java-red?style=for-the-badge)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-blueviolet?style=for-the-badge)
+![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csnpch&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
