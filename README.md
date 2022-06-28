@@ -13,7 +13,7 @@ This is my github profile. ☺
 ![html](https://img.shields.io/badge/-html-red?style=for-the-badge)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-blueviolet?style=for-the-badge)
 ![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
-![JS&TS](https://img.shields.io/badge/-tailwindcss-blueviolet?style=for-the-badge)
+![JS&TS](https://img.shields.io/badge/-JS&TS-blueviolet?style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csnpch&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
