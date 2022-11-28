@@ -2,7 +2,7 @@
 This is my github profile. ☺
 <br><br>
 Experiences
-<br>
+<br><br>
 
 ![nextJS](https://img.shields.io/badge/-nextJS-blueviolet?style=for-the-badge)
 ![node](https://img.shields.io/badge/-node-red?style=for-the-badge)
@@ -15,6 +15,8 @@ Experiences
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-blueviolet?style=for-the-badge)
 ![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
 ![JS&TS](https://img.shields.io/badge/-JS&TS-blueviolet?style=for-the-badge)
+
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csnpch&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
