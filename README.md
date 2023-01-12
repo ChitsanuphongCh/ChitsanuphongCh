@@ -8,7 +8,7 @@ Experiences
 ![nextJS](https://img.shields.io/badge/-nextJS-blueviolet?style=for-the-badge)
 ![node](https://img.shields.io/badge/-node-red?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-blueviolet?style=for-the-badge)
-![mongoDB](https://img.shields.io/badge/-mongoDB-red?style=for-the-badge)
+![noSQL](https://img.shields.io/badge/-noSQL-red?style=for-the-badge)
 ![JSdom](https://img.shields.io/badge/-JSdom-blueviolet?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 ![java](https://img.shields.io/badge/-java-blueviolet?style=for-the-badge)
