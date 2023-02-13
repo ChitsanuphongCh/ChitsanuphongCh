@@ -1,4 +1,4 @@
-<h2>Hello Everyong, My name is Chitsanuphong Chaihong (Ham) 👋</h2>
+<h2>Hello Everyong, I'm Chitsanuphong Chaihong (Ham) 👋</h2>
 This is my github profile. ☺
 <br><br>
 Experiences
