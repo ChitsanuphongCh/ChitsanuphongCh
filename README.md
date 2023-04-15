@@ -5,7 +5,7 @@ Experiences
 
 <br>
 
-![React&NextTS](https://img.shields.io/badge/-ReactNextTS-blueviolet?style=for-the-badge)
+![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge)
 ![node](https://img.shields.io/badge/-node-red?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-blueviolet?style=for-the-badge)
 ![noSQL](https://img.shields.io/badge/-noSQL-red?style=for-the-badge)
