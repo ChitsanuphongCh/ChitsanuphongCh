@@ -12,10 +12,8 @@ Experiences
 ![JSdom](https://img.shields.io/badge/-JSdom-blueviolet?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 ![java](https://img.shields.io/badge/-java-blueviolet?style=for-the-badge)
-![html](https://img.shields.io/badge/-html-red?style=for-the-badge)
+![kotlin](https://img.shields.io/badge/-html-red?style=for-the-badge)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-blueviolet?style=for-the-badge)
-![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
-![JS&TS](https://img.shields.io/badge/-JS&TS-blueviolet?style=for-the-badge)
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
