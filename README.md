@@ -1,20 +1,5 @@
 <h2>Hello Everyong, I'm Chitsanuphong Chaihong (Ham) 👋</h2>
 This is my github profile. ☺
-<br><br>
-Experiences
-
-<br>
-
-![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge)
-![node](https://img.shields.io/badge/-node-red?style=for-the-badge)
-![sql](https://img.shields.io/badge/-sql-blueviolet?style=for-the-badge)
-![noSQL](https://img.shields.io/badge/-noSQL-red?style=for-the-badge)
-![JSdom](https://img.shields.io/badge/-JSdom-blueviolet?style=for-the-badge)
-![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
-![java](https://img.shields.io/badge/-java-blueviolet?style=for-the-badge)
-![kotlin](https://img.shields.io/badge/-html-red?style=for-the-badge)
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-blueviolet?style=for-the-badge)
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csnpch&hide=php,css,scss,html,vue,CMake,python,Hack&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
