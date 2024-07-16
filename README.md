@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">I'm frontend developer and code with</h5>
+<h5 align="left">I'm fullstrack developer and test engineer (automation), I'm code with</h5>
 
 ###
 
